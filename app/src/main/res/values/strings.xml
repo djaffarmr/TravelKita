@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Travel Kita</string>
+
+    <!-- DESC -->
+    <string name="desc_splashscreen">Splash Screen</string>
+    <string name="desc_logo">App Logo</string>
+    <string name="desc_home">Home Button Icon</string>
+    <string name="desc_icon">App Features Icon</string>
+    <string name="desc_viewpager">View Pager Images</string>
+
+    <!-- OVERFLOW -->
+    <string name="text_credits">Credits</string>
+
+</resources>

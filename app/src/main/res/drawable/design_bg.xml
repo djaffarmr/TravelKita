@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- SHADOW COLOR-->
+    <item>
+        <shape android:shape="rectangle">
+
+            <solid android:color="@color/shadow" />
+
+            <!-- SET ROUNDED CORNER -->
+            <!--<corners android:radius="6dp" />-->
+
+        </shape>
+    </item>
+
+    <!-- BASE COLOR -->
+    <item android:bottom="1px">
+
+        <shape android:shape="rectangle">
+
+            <solid android:color="@color/white" />
+
+            <!-- SET ROUNDED CORNER -->
+            <!--<corners android:radius="6dp" />-->
+
+        </shape>
+
+    </item>
+
+</layer-list>
